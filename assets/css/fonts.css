@@ -1,0 +1,36 @@
+
+@font-face {
+  font-family: "ABCDiatypeMono-Regular";
+
+  font-weight: normal;
+  font-style: normal;
+  font-display: auto;
+
+  src: url("../fonts/ABCDiatypeMono-Regular.woff2") format("woff2"),
+       url("../fonts/ABCDiatypeMono-Regular.woff") format("woff");
+       
+}
+
+@font-face {
+  font-family: "abcdiatypeedu-regular";
+
+  font-weight: normal;
+  font-style: normal;
+  font-display: auto;
+
+  src: url("../fonts/abcdiatypeedu-regular-webfont.woff2") format("woff2"),
+       url("../fonts/abcdiatypeedu-regular-webfont.woff") format("woff");
+       
+}
+
+@font-face {
+  font-family: "ABCDiatypeEdu-RegularItalic";
+
+  font-weight: normal;
+  font-style: normal;
+  font-display: auto;
+
+  src: url("../fonts/ABCDiatypeEdu-RegularItalic.woff2") format("woff2"),
+       url("../fonts/ABCDiatypeEdu-RegularItalic.woff") format("woff");
+       
+}
